@@ -1,2 +1,0 @@
-# TEDDYBalzanoNC2019
-
