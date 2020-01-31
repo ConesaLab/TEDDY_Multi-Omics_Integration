@@ -1,4 +1,3 @@
-README.txt
 These are the instruction to reproduce the results of the paper called 
 “Integrative analyses of TEDDY Omics data reveal lipid metabolism abnormalities, increased intracellular ROS and heightened inflammation prior to autoimmunity for type 1 diabetes”
 
