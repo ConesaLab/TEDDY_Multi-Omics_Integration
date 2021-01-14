@@ -19,7 +19,9 @@ To be able to obtain the same results there are some important aspect to take in
 	2.7.- EnrichmentAnalysisGADAIAA.R				Enrichment Analysis of the individuals used, performed evaluating GADA-first Cases vs IAA-first Cases
 	2.8.- PartialCorrelationNetworks.R				Partial correlation analysis to determine the relationships of the different features selected in terms of time frames before seroconversion
 	2.9.- DatasetsasinputinPaintomics.R				Creation of tables necessary as inputs for the PaintOmics 3 analysis 
-	2.10.-MetabolomicsHeatmapandSUmmaryTable.R			Enrichment analysis of the metabolomics data 
+	2.10.-MetabolomicsHeatmapandSUmmaryTable.R			Enrichment analysis of the metabolomics data
+	2.11.-VIPs_enrichment_2.R                			Enrichment analysis and Creation of the heatmaps reported in the article
+	
 
 #######################
 ##  Data delivered:  ##
